@@ -1,5 +1,4 @@
 aiogram==3.20.0
 asyncio
 nest_asyncio
-sqlite3
 logging
